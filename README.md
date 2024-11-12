@@ -15,8 +15,10 @@ gestor_tareas/
 │	└── test_gestor_tareas.py
 ├── src/
 │	├── logica
-│	│	└── test_gestor_tareas.py
+│	│	└── gestor_tarea.py
 │	└── vista
-│	└── gui_gestor_tareas.py
+│	└── gestor_tareasGUI.py
+└── .gitignore
+└── main.py
 └── README.md
 ```
