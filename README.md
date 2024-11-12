@@ -6,7 +6,7 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 ## Instalación
 ### Clona este repositorio:
 ```
-git clone https://github.com/dgamarra/GestorTareas.git
+git clone https://github.com/AlexSSJ510/Gestion_TareasGUI.git
 ```
 ### Estructura del proyecto
 ```
